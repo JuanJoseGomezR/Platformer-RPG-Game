@@ -22,7 +22,7 @@ Core features include:
 |--------------|-------------|
 | Move         | A / D       |
 | Jump         | Space       |
-| Attack       | Left Click  |
+| Attack       | K  |
 | Inventory    | I           |
 | Use Item     | Right Click |
 
