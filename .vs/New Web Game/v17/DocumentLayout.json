@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Juan Jos\u00E9\\New Web Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C902A8D-7F79-B4AE-C083-F39028B63788}|Assembly-CSharp.csproj|C:\\Users\\Juan Jos\u00E9\\New Web Game\\assets\\scripts\\managers\\consumablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C902A8D-7F79-B4AE-C083-F39028B63788}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\consumablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C902A8D-7F79-B4AE-C083-F39028B63788}|Assembly-CSharp.csproj|c:\\users\\juan jos\u00E9\\new web game\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C902A8D-7F79-B4AE-C083-F39028B63788}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C902A8D-7F79-B4AE-C083-F39028B63788}|Assembly-CSharp.csproj|C:\\Users\\Juan Jos\u00E9\\New Web Game\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C902A8D-7F79-B4AE-C083-F39028B63788}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C902A8D-7F79-B4AE-C083-F39028B63788}|Assembly-CSharp.csproj|c:\\users\\juan jos\u00E9\\new web game\\assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C902A8D-7F79-B4AE-C083-F39028B63788}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3C902A8D-7F79-B4AE-C083-F39028B63788}|Assembly-CSharp.csproj|c:\\users\\juan jos\u00E9\\new web game\\assets\\scripts\\so\\enemydataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C902A8D-7F79-B4AE-C083-F39028B63788}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\so\\enemydataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C902A8D-7F79-B4AE-C083-F39028B63788}|Assembly-CSharp.csproj|C:\\Users\\Juan Jos\u00E9\\New Web Game\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C902A8D-7F79-B4AE-C083-F39028B63788}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C902A8D-7F79-B4AE-C083-F39028B63788}|Assembly-CSharp.csproj|C:\\Users\\Juan Jos\u00E9\\New Web Game\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C902A8D-7F79-B4AE-C083-F39028B63788}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C902A8D-7F79-B4AE-C083-F39028B63788}|Assembly-CSharp.csproj|c:\\users\\juan jos\u00E9\\new web game\\assets\\scripts\\managers\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C902A8D-7F79-B4AE-C083-F39028B63788}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C902A8D-7F79-B4AE-C083-F39028B63788}|Assembly-CSharp.csproj|c:\\users\\juan jos\u00E9\\new web game\\assets\\scripts\\deathzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C902A8D-7F79-B4AE-C083-F39028B63788}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deathzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C902A8D-7F79-B4AE-C083-F39028B63788}|Assembly-CSharp.csproj|C:\\Users\\Juan Jos\u00E9\\New Web Game\\assets\\scripts\\managers\\consumablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C902A8D-7F79-B4AE-C083-F39028B63788}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\consumablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C902A8D-7F79-B4AE-C083-F39028B63788}|Assembly-CSharp.csproj|C:\\Users\\Juan Jos\u00E9\\New Web Game\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C902A8D-7F79-B4AE-C083-F39028B63788}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C902A8D-7F79-B4AE-C083-F39028B63788}|Assembly-CSharp.csproj|C:\\Users\\Juan Jos\u00E9\\New Web Game\\assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C902A8D-7F79-B4AE-C083-F39028B63788}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C902A8D-7F79-B4AE-C083-F39028B63788}|Assembly-CSharp.csproj|C:\\Users\\Juan Jos\u00E9\\New Web Game\\assets\\scripts\\inventory\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 255,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Jos\u00E9\\New Web Game\\Assets\\Scripts\\Managers\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\InventoryManager.cs",
+              "ToolTip": "C:\\Users\\Juan Jos\u00E9\\New Web Game\\Assets\\Scripts\\Managers\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\InventoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T00:39:55.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Projectile.cs",
               "DocumentMoniker": "C:\\Users\\Juan Jos\u00E9\\New Web Game\\Assets\\Scripts\\Projectile.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Projectile.cs",
@@ -54,25 +75,37 @@
               "RelativeToolTip": "Assets\\Scripts\\Projectile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T20:09:08.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-05T20:09:08.89Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "PlayerHealth.cs",
               "DocumentMoniker": "C:\\Users\\Juan Jos\u00E9\\New Web Game\\Assets\\Scripts\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
               "ToolTip": "C:\\Users\\Juan Jos\u00E9\\New Web Game\\Assets\\Scripts\\PlayerHealth.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAwB4AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-04T20:29:32.341Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "DeathZone.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Jos\u00E9\\New Web Game\\Assets\\Scripts\\DeathZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeathZone.cs",
+              "ToolTip": "C:\\Users\\Juan Jos\u00E9\\New Web Game\\Assets\\Scripts\\DeathZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeathZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T18:06:25.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\Juan Jos\u00E9\\New Web Game\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
@@ -80,25 +113,24 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAwB8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T18:34:00.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T18:34:00.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EnemyAI.cs",
               "DocumentMoniker": "C:\\Users\\Juan Jos\u00E9\\New Web Game\\Assets\\Scripts\\EnemyAI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAI.cs",
               "ToolTip": "C:\\Users\\Juan Jos\u00E9\\New Web Game\\Assets\\Scripts\\EnemyAI.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyAI.cs",
-              "ViewState": "AgIAAKcAAAAAAAAAAAAAALgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T18:45:05.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ConsumableManager.cs",
               "DocumentMoniker": "C:\\Users\\Juan Jos\u00E9\\New Web Game\\Assets\\Scripts\\Managers\\ConsumableManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\ConsumableManager.cs",
@@ -106,12 +138,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Managers\\ConsumableManager.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAwBkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T19:07:20.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T19:07:20.72Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "InventoryUI.cs",
               "DocumentMoniker": "C:\\Users\\Juan Jos\u00E9\\New Web Game\\Assets\\Scripts\\Inventory\\InventoryUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\InventoryUI.cs",
@@ -123,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "SaveManager.cs",
               "DocumentMoniker": "C:\\Users\\Juan Jos\u00E9\\New Web Game\\Assets\\Scripts\\Managers\\SaveManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\SaveManager.cs",
@@ -141,13 +172,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "EnemyDataSO.cs",
               "DocumentMoniker": "C:\\Users\\Juan Jos\u00E9\\New Web Game\\Assets\\Scripts\\SO\\EnemyDataSO.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SO\\EnemyDataSO.cs",
               "ToolTip": "C:\\Users\\Juan Jos\u00E9\\New Web Game\\Assets\\Scripts\\SO\\EnemyDataSO.cs",
               "RelativeToolTip": "Assets\\Scripts\\SO\\EnemyDataSO.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T18:41:41.438Z",
               "EditorCaption": ""
