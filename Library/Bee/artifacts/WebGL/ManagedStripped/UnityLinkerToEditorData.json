@@ -7,7 +7,7 @@
           {
             "name": "AnimationClip",
             "scenes": [
-              "Assets/SavedGame.unity"
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -15,7 +15,7 @@
           {
             "name": "Animator",
             "scenes": [
-              "Assets/SavedGame.unity"
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -23,7 +23,7 @@
           {
             "name": "AnimatorController",
             "scenes": [
-              "Assets/SavedGame.unity"
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -54,8 +54,8 @@
           {
             "name": "AudioBehaviour",
             "scenes": [
-              "Assets/SavedGame.unity",
-              "Assets/Scenes/Level2.unity"
+              "Assets/Scenes/Level2.unity",
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -69,8 +69,8 @@
           {
             "name": "AudioListener",
             "scenes": [
-              "Assets/SavedGame.unity",
-              "Assets/Scenes/Level2.unity"
+              "Assets/Scenes/Level2.unity",
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -107,8 +107,8 @@
           {
             "name": "Camera",
             "scenes": [
-              "Assets/SavedGame.unity",
-              "Assets/Scenes/Level2.unity"
+              "Assets/Scenes/Level2.unity",
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -146,8 +146,8 @@
           {
             "name": "EditorExtension",
             "scenes": [
-              "Assets/SavedGame.unity",
-              "Assets/Scenes/Level2.unity"
+              "Assets/Scenes/Level2.unity",
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -161,8 +161,8 @@
           {
             "name": "GameObject",
             "scenes": [
-              "Assets/SavedGame.unity",
-              "Assets/Scenes/Level2.unity"
+              "Assets/Scenes/Level2.unity",
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -188,8 +188,8 @@
           {
             "name": "LevelGameManager",
             "scenes": [
-              "Assets/SavedGame.unity",
-              "Assets/Scenes/Level2.unity"
+              "Assets/Scenes/Level2.unity",
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -215,8 +215,8 @@
           {
             "name": "LightmapSettings",
             "scenes": [
-              "Assets/SavedGame.unity",
-              "Assets/Scenes/Level2.unity"
+              "Assets/Scenes/Level2.unity",
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -230,7 +230,7 @@
           {
             "name": "Material",
             "scenes": [
-              "Assets/SavedGame.unity"
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -256,7 +256,7 @@
           {
             "name": "MonoBehaviour",
             "scenes": [
-              "Assets/SavedGame.unity"
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -270,7 +270,7 @@
           {
             "name": "MonoScript",
             "scenes": [
-              "Assets/SavedGame.unity"
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -278,8 +278,8 @@
           {
             "name": "NamedObject",
             "scenes": [
-              "Assets/SavedGame.unity",
-              "Assets/Scenes/Level2.unity"
+              "Assets/Scenes/Level2.unity",
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -311,7 +311,7 @@
           {
             "name": "RectTransform",
             "scenes": [
-              "Assets/SavedGame.unity"
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -325,8 +325,8 @@
           {
             "name": "RenderSettings",
             "scenes": [
-              "Assets/SavedGame.unity",
-              "Assets/Scenes/Level2.unity"
+              "Assets/Scenes/Level2.unity",
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -340,7 +340,7 @@
           {
             "name": "Renderer",
             "scenes": [
-              "Assets/SavedGame.unity"
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -360,7 +360,7 @@
           {
             "name": "Shader",
             "scenes": [
-              "Assets/SavedGame.unity"
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -380,7 +380,7 @@
           {
             "name": "Sprite",
             "scenes": [
-              "Assets/SavedGame.unity"
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -394,7 +394,7 @@
           {
             "name": "SpriteRenderer",
             "scenes": [
-              "Assets/SavedGame.unity"
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -414,8 +414,8 @@
           {
             "name": "Texture",
             "scenes": [
-              "Assets/SavedGame.unity",
-              "Assets/Scenes/Level2.unity"
+              "Assets/Scenes/Level2.unity",
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -423,8 +423,8 @@
           {
             "name": "Texture2D",
             "scenes": [
-              "Assets/SavedGame.unity",
-              "Assets/Scenes/Level2.unity"
+              "Assets/Scenes/Level2.unity",
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -551,7 +551,7 @@
           {
             "name": "Grid",
             "scenes": [
-              "Assets/SavedGame.unity"
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -621,7 +621,7 @@
           {
             "name": "BoxCollider2D",
             "scenes": [
-              "Assets/SavedGame.unity"
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -629,7 +629,7 @@
           {
             "name": "CapsuleCollider2D",
             "scenes": [
-              "Assets/SavedGame.unity"
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -637,7 +637,7 @@
           {
             "name": "CircleCollider2D",
             "scenes": [
-              "Assets/SavedGame.unity"
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -657,7 +657,7 @@
           {
             "name": "Rigidbody2D",
             "scenes": [
-              "Assets/SavedGame.unity"
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -822,7 +822,7 @@
           {
             "name": "Font",
             "scenes": [
-              "Assets/SavedGame.unity"
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -865,7 +865,7 @@
           {
             "name": "Tilemap",
             "scenes": [
-              "Assets/SavedGame.unity"
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -873,7 +873,7 @@
           {
             "name": "TilemapCollider2D",
             "scenes": [
-              "Assets/SavedGame.unity"
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -881,7 +881,7 @@
           {
             "name": "TilemapRenderer",
             "scenes": [
-              "Assets/SavedGame.unity"
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -894,7 +894,7 @@
           {
             "name": "Canvas",
             "scenes": [
-              "Assets/SavedGame.unity"
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -908,7 +908,7 @@
           {
             "name": "CanvasRenderer",
             "scenes": [
-              "Assets/SavedGame.unity"
+              "Assets/Scenes/SavedGame.unity"
             ],
             "dependencyType": 0,
             "icon": null

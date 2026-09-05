@@ -1,7 +1,6 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using TMPro.EditorUtilities;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -69,6 +68,12 @@ public class PlayerHealth : MonoBehaviour
 
         yield return new WaitForSeconds(2);
 
+        RetryLevel();
+    }
+
+    public void InstantDeath()
+    {
+        IsDead = true;
         RetryLevel();
     }
 
